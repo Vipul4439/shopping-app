@@ -1,0 +1,49 @@
+{
+  "users": [
+    {
+      "id": "6a67",
+      "name": "Madhu",
+      "email": "madhu@gmail.com",
+      "shoppingList": []
+    },
+    {
+      "id": "0902",
+      "name": "Vipul",
+      "email": "vipul@gmail.com",
+      "shoppingList": [
+        {
+          "id": 1,
+          "name": "Banana",
+          "status": "pending"
+        },
+        {
+          "id": 1,
+          "name": "Banana",
+          "status": "pending"
+        },
+        {
+          "id": 1,
+          "name": "Banan",
+          "status": "pending"
+        },
+        {
+          "id": 1,
+          "name": "Apple",
+          "status": "pending"
+        }
+      ]
+    },
+    {
+      "id": "0905",
+      "name": "Anish",
+      "email": "anish@gmail.com",
+      "shoppingList": [
+        {
+          "id": 1,
+          "name": "Apple",
+          "status": "pending"
+        }
+      ]
+    }
+  ]
+}
